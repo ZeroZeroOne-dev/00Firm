@@ -11,7 +11,7 @@
     "via/save_load",
     "core/qmk_rgblight"
   ],
-  "lighting": "qmk_rgblight",
+  "lighting": "vialrgb",
   "matrix": {"rows": 8, "cols": 7},
   "layouts": {
     "keymap": [
